@@ -3,34 +3,70 @@
 	background-color: #2B78AF;
 }
 .navy {
-	height: 43.75em;
+	height: 69em;
 	background-color: #28313F;
+	padding-bottom: 2em;
+}
+h1 {
+	height: 10em;
+	width: 12em;
+	margin: auto;
+	box-sizing: border-box;
+	text-align: center;
+	color: white;
+	padding-top: 5em;
 }
 h3 {
+	height: 2em;
+	width: 20em;
+	margin: auto;
+	box-sizing: border-box;
+	text-align: center;
+	color: white;
+	padding-bottom: 4em;
 
 }
-.navy-1 {
-	height: 21em;
-	background-color: #28313F;
+.button {
+	height: 3em;
+	width: 2em;
+	margin: 0 auto;
+	padding-left: 7em;
+	padding-right: 7em;
+	padding top: 5em;
+	border-color: black;
+	background-color: #2B78AF;
+	border: 10px solid black;
 }
+.tiny {
+	height: 1em;
+	width: 2em;
+	background-color: white;
+	margin: 8em auto 12em;
+
+}
+
+
+
+
+
+
+
 .white-1 {
 	height: 4.25em;
 	width: 18.75em;
-	margin-bottom: 1.75em;
-	margin-right: 4.5em;
-	margin-right: 4.5em;
+	margin: 1.75em auto;
 	background-color: white;
 }
 .white-2 {
 	height: 4.25em;
 	width: 18.75em;
-	margin: 0 auto;
+	margin: 1em auto;
 	background-color: white;
 }
 .white-3 {
 	height: 4.25em;
 	width: 18.75em;
-	margin-top: 1.75em;
+	margin: 1.75em auto;
 	background-color: white;
 }
 .silver {
@@ -38,8 +74,9 @@ h3 {
 	background-color: #E4ECF2;
 }
 .gray {
-	height: 90em;
+	padding-top: 0.5em;
 	background-color: #C7C9CD;
+	padding-bottom: 0.5em;
 }
 .white-4 {
 	height: 13.25em;
@@ -49,8 +86,17 @@ h3 {
 	background-color: white;
 }
 .silver-2 {
-	height: 10.5em;
+	
 	background-color: #E4ECF2;
+	padding-top: 10em;
+	padding-bottom: 2em;
+}
+.tag {
+	height: 3em;
+	width: 12em;
+	background-color: #2F79AD;
+	margin: auto;
+
 }
 .black {
 	height: 8.33em;
