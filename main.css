@@ -91,7 +91,17 @@ h3 {
 	width: 18.75em;
 	margin: 1.75em auto;
 	background-color: white;
-	
+}
+.ready {
+	height: 1.8em;
+	width: 15em;
+	color: white;
+	font: bold;
+}
+.download {
+	height: 1.8em;
+	width: 15em;
+	color: white;
 }
 .white-2 {
 	height: 4.25em;
@@ -100,11 +110,31 @@ h3 {
 	background-color: white;
 
 }
+.freshly {
+	height: 1.8em;
+	width: 15em;
+	color: white;
+}
+.strong {
+	height: 1.8em;
+	width: 15em;
+	color: white;
+}
 .white-3 {
 	height: 4.25em;
 	width: 18.75em;
 	margin: 1.75em auto;
 	background-color: white;
+}
+.hundreds {
+	height: 1.8em;
+	width: 15em;
+	color: white;
+}
+.find {
+	height: 1.8em;
+	width: 15em;
+	color: white;
 }
 .left {
 	height: 3.6em;
@@ -112,6 +142,7 @@ h3 {
 	margin-top: .6em;
 	margin-right: .6em;
 	background-color: #505B6B;
+	
 
 }
 .right {
@@ -166,6 +197,7 @@ h3 {
 	margin-right: auto;
 	background-color: white;
 	text-align: center;
+	color: #435063;
 
 }
 .middle-3 {
@@ -176,6 +208,7 @@ h3 {
 	margin-right: auto;
 	background-color: white;
 	text-align: center;
+	color: #435063;
 }
 .silver-2 {
 	
@@ -215,6 +248,7 @@ span {
 	width: 8em;
 	background-color: white;
 	margin: auto;
+
 }
 
 .white-6{
