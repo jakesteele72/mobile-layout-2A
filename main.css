@@ -66,7 +66,12 @@ h3 {
 	border-color: black;
 	background-color: #2B78AF;
 	border: 10px solid black;
+	
+	color: white;
+	
 }
+
+
 .tiny {
 	height: 1em;
 	width: 2em;
@@ -86,12 +91,14 @@ h3 {
 	width: 18.75em;
 	margin: 1.75em auto;
 	background-color: white;
+	
 }
 .white-2 {
 	height: 4.25em;
 	width: 18.75em;
 	margin: 1em auto;
 	background-color: white;
+
 }
 .white-3 {
 	height: 4.25em;
@@ -112,13 +119,22 @@ h3 {
 	margin-right: .25em;
 	width: 15em;
 	background-color: #505B6B;
+	
 	float: right;
-	clear: right;
 
 }
 .silver {
 	height: 16.75em;
 	background-color: #E4ECF2;
+	padding-top: 4em;
+
+
+}
+.motto {
+	font-size: 2.25em;
+	font-family: verdana;
+	text-align: center;
+	margin: 0;
 }
 .gray {
 	padding-top: 0.5em;
